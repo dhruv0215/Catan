@@ -1,0 +1,16 @@
+{
+    "resource_cards": {
+            "Brick": 19,
+            "Grain":19,
+            "Lumber":19,
+            "Ore":19,
+            "Wool":19
+        } ,
+    "development_cards": {
+            "Knight": 14,
+            "Victory":5,
+            "Road_building":2,
+            "Monopoly":2,
+            "Year_of_plenty":2
+        }
+}
